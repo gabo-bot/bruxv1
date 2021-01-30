@@ -119,7 +119,4 @@ const help = (prefix) => {
 ╰╯┃┈┈┈┈┈┈┃╰╯
       ╰┓┏━━┓┏╯
          ╰╯      ╰╯
-`
-}
-
-exports.help = help
+gabo ta
