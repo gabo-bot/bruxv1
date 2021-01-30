@@ -1,17 +1,15 @@
 const help = (prefix) => {
-	return `🔰---[ *MENU ARR157-BOT* ]---🔰
+	return `🔰---[ *MENU İRİS_SHARK_BOT* ]---🔰
 ┏━━━━━━━━━━━━━━━━━━━━┓
 ┃ *⚠️ NAO SPAM! NAO CALL!!! ⚠️*
 ┃   *caso aocontrario  BLOCK*
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃⊱❥ PROPRIETÁRIO : *BRUXINHO*
+┃⊱❥ NOME DO BOT : *İRİS_SHARK_BOT*
 ┃⊱❥ ATIVO : *08:00-22:00 WIB*
 ┃⊱❥ PREFIX : 「 ${prefix} 」
 ┃⊱❥ VERSÃO : 1.1
-┃⊱❥ número do meu criador:wa.me/+27624213430
-┃⊱❥ Da uma FORÇA la no meu canal fml:https://youtube.com/channel/UCalQOjX5BFqim6x8JyCMM-w
-┃⊱❥ LINK do meu GRUPO: https://chat.whatsapp.com/FvPEpkaPrFXAErjML3ekyW
-┃⊱❥ *SE FOR KIBAR DEIXA OS CRÉDITOS MAN*
+┃⊱❥ número do meu criador:wa.me/558294112369
+┃⊱❥ GABO E TOTOSO E FDS👺👍
 ┣━━━━━━━━━━━━━━━━━━━━┛
 ┃ 🌀𝑻𝒆𝒏𝒕𝒂𝒏𝒈 𝑩𝑶𝑻🌀
 ┣━━━━━━━━━━━━━━━━━━━━┓
