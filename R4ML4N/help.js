@@ -4,7 +4,7 @@ const help = (prefix) => {
 ┃ *⚠️ NAO SPAM! NAO CALL!!! ⚠️*
 ┃   *caso aocontrario  BLOCK*
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃⊱❥ PROPRIETÁRIO : *BRUXINHO*
+┃⊱❥ PROPRIETÁRIO : *Gabo*
 ┃⊱❥ ATIVO : *08:00-22:00 WIB*
 ┃⊱❥ PREFIX : 「 ${prefix} 」
 ┃⊱❥ VERSÃO : 1.1
@@ -16,7 +16,7 @@ const help = (prefix) => {
 ┃ 🌀𝑻𝒆𝒏𝒕𝒂𝒏𝒈 𝑩𝑶𝑻🌀
 ┣━━━━━━━━━━━━━━━━━━━━┓
 ┃➢ ${prefix}info
-┃➢ ${prefix}owner
+┃➢ ${prefix}owner pau
 ┃➢ ${prefix}donasi
 ┃➢ ${prefix}blocklist
 ┣━━━━━━━━━━━━━━━━━━━━┛
