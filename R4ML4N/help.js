@@ -4,11 +4,11 @@ const help = (prefix) => {
 ┃ *⚠️ NAO SPAM! NAO CALL!!! ⚠️*
 ┃   *caso aocontrario  BLOCK*
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃⊱❥ PROPRIETÁRIO : *BRUXINHO*
+┃⊱❥ PROPRIETÁRIO : *Gabo*
 ┃⊱❥ ATIVO : *08:00-22:00 WIB*
 ┃⊱❥ PREFIX : 「 ${prefix} 」
 ┃⊱❥ VERSÃO : 1.1
-┃⊱❥ número do meu criador:wa.me/+27624213430
+┃⊱❥ número do meu criador: Gabo
 ┃⊱❥ Da uma FORÇA la no meu canal fml:https://youtube.com/channel/UCalQOjX5BFqim6x8JyCMM-w
 ┃⊱❥ LINK do meu GRUPO: https://chat.whatsapp.com/FvPEpkaPrFXAErjML3ekyW
 ┃⊱❥ *SE FOR KIBAR DEIXA OS CRÉDITOS MAN*
@@ -116,7 +116,7 @@ const help = (prefix) => {
       ┃┈▇┈┈▇┈┃      
 ╭╮┣━━━━━━┫╭╮    
 ┃┃┃┈┈┈┈┈┈┃┃┃    
-╰╯┃┈┈┈┈┈┈┃╰╯
+╰╯┃┈┈┈┈┈┈┃╰╯;)
       ╰┓┏━━┓┏╯
          ╰╯      ╰╯
 `
