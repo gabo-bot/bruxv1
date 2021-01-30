@@ -118,8 +118,4 @@ const help = (prefix) => {
 ┃┃┃┈┈┈┈┈┈┃┃┃    
 ╰╯┃┈┈┈┈┈┈┃╰╯
       ╰┓┏━━┓┏╯
-         ╰╯      ╰╯
-`
-}
-
-exports.help = help
+         Gabo o melhor ta pqp
