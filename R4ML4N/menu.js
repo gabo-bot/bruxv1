@@ -4,8 +4,8 @@ const help = (prefix) => {
 ┃ *⚠️ NAO SPAM! NAO CALL!!! ⚠️*
 ┃   *caso aocontrario  BLOCK*
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃⊱❥ PROPRIETÁRIO : *BRUXINHO*
-┃⊱❥ ATIVO : *08:00-22:00 WIB*
+┃⊱❥ PROPRIETÁRIO : *BRUXINHOgay da porra*
+┃⊱❥ ATIVO : *08:00-22:00 WIB66*
 ┃⊱❥ PREFIX : 「 ${prefix} 」
 ┃⊱❥ VERSÃO : 1.1
 ┃⊱❥ número do meu criador:wa.me/+27624213430
