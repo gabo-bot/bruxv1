@@ -119,7 +119,7 @@ const help = (prefix) => {
 ╰╯┃┈┈┈┈┈┈┃╰╯
       ╰┓┏━━┓┏╯
          ╰╯      ╰╯
-`
+Gabo dos 20cm
 }
 
 exports.help = help
