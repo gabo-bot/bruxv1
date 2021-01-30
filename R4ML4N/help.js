@@ -15,7 +15,7 @@ const help = (prefix) => {
 ┣━━━━━━━━━━━━━━━━━━━━┛
 ┃ 🌀𝑻𝒆𝒏𝒕𝒂𝒏𝒈 𝑩𝑶𝑻🌀
 ┣━━━━━━━━━━━━━━━━━━━━┓
-┃➢ ${prefix}info
+┃➢ ${prefix}info minhas informação 
 ┃➢ ${prefix}owner
 ┃➢ ${prefix}donasi
 ┃➢ ${prefix}blocklist
