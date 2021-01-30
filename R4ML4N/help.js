@@ -1,28 +1,25 @@
 const help = (prefix) => {
-	return `🔰---[ *MENU ARR157-BOT* ]---🔰
+	return `🔰---[ *MENU İRİS_SHARK_BOT* ]---🔰
 ┏━━━━━━━━━━━━━━━━━━━━┓
 ┃ *⚠️ NAO SPAM! NAO CALL!!! ⚠️*
 ┃   *caso aocontrario  BLOCK*
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃⊱❥ PROPRIETÁRIO : *BRUXINHO*
+┃⊱❥ PROPRIETÁRIO : *GABO*
 ┃⊱❥ ATIVO : *08:00-22:00 WIB*
 ┃⊱❥ PREFIX : 「 ${prefix} 」
-┃⊱❥ VERSÃO : 1.1
-┃⊱❥ número do meu criador:wa.me/+27624213430
-┃⊱❥ Da uma FORÇA la no meu canal fml:https://youtube.com/channel/UCalQOjX5BFqim6x8JyCMM-w
-┃⊱❥ LINK do meu GRUPO: https://chat.whatsapp.com/FvPEpkaPrFXAErjML3ekyW
-┃⊱❥ *SE FOR KIBAR DEIXA OS CRÉDITOS MAN*
+┃⊱❥ MEU NOME : İRİS_SHARK_BOT
+┃⊱❥ número do meu criador:wa.me/+558294112369
 ┣━━━━━━━━━━━━━━━━━━━━┛
 ┃ 🌀𝑻𝒆𝒏𝒕𝒂𝒏𝒈 𝑩𝑶𝑻🌀
 ┣━━━━━━━━━━━━━━━━━━━━┓
-┃➢ ${prefix}info
+┃➢ ${prefix}info meu perfil
 ┃➢ ${prefix}owner
 ┃➢ ${prefix}donasi
 ┃➢ ${prefix}blocklist
 ┣━━━━━━━━━━━━━━━━━━━━┛
 ┃ 🌀𝑴𝒆𝒏𝒖 𝑺𝑰𝑴𝑷𝑳𝑬S🌀
 ┣━━━━━━━━━━━━━━━━━━━━┓
-┃➢ ${prefix}sticker
+┃➢ ${prefix}sticker fazer figurinha
 ┃➢ ${prefix}toimg
 ┃➢ ${prefix}ttp
 ┃➢ ${prefix}tts
@@ -112,7 +109,7 @@ const help = (prefix) => {
 ┣━━━━━━━━━━━━━━━━━━━━┓
 
              ╲    ╱    ● ᏴϴͲ●ᎷᎬΝႮ●
-       ╱▔▔▔▔▔╲       Autor    : ARR157 BOT
+       ╱▔▔▔▔▔╲       Autor    : GABO
       ┃┈▇┈┈▇┈┃      
 ╭╮┣━━━━━━┫╭╮    
 ┃┃┃┈┈┈┈┈┈┃┃┃    
