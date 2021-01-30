@@ -1,17 +1,15 @@
 const help = (prefix) => {
-	return `🔰---[ *MENU ARR157-BOT* ]---🔰
+	return `🔰---[ *MENU EDUARDO* ]---🔰
 ┏━━━━━━━━━━━━━━━━━━━━┓
 ┃ *⚠️ NAO SPAM! NAO CALL!!! ⚠️*
 ┃   *caso aocontrario  BLOCK*
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃⊱❥ PROPRIETÁRIO : *BRUXINHO*
+┃⊱❥ NOME DO BOT : *İRİS_SHARK_BOT*
 ┃⊱❥ ATIVO : *08:00-22:00 WIB*
 ┃⊱❥ PREFIX : 「 ${prefix} 」
 ┃⊱❥ VERSÃO : 1.1
-┃⊱❥ número do meu criador:wa.me/+27624213430
-┃⊱❥ Da uma FORÇA la no meu canal fml:https://youtube.com/channel/UCalQOjX5BFqim6x8JyCMM-w
-┃⊱❥ LINK do meu GRUPO: https://chat.whatsapp.com/FvPEpkaPrFXAErjML3ekyW
-┃⊱❥ *SE FOR KIBAR DEIXA OS CRÉDITOS MAN*
+┃⊱❥ número do meu criador:wa.me/558294112369
+┃⊱❥ NOME DO MEU CRIADOR : EDUARDO
 ┣━━━━━━━━━━━━━━━━━━━━┛
 ┃ 🌀𝑻𝒆𝒏𝒕𝒂𝒏𝒈 𝑩𝑶𝑻🌀
 ┣━━━━━━━━━━━━━━━━━━━━┓
@@ -22,7 +20,7 @@ const help = (prefix) => {
 ┣━━━━━━━━━━━━━━━━━━━━┛
 ┃ 🌀𝑴𝒆𝒏𝒖 𝑺𝑰𝑴𝑷𝑳𝑬S🌀
 ┣━━━━━━━━━━━━━━━━━━━━┓
-┃➢ ${prefix}sticker
+┃➢ ${prefix}sticker ou fig: fazer adesivos
 ┃➢ ${prefix}toimg
 ┃➢ ${prefix}ttp
 ┃➢ ${prefix}tts
@@ -32,7 +30,7 @@ const help = (prefix) => {
 ┃ 🌀𝑴𝒆𝒏𝒖 𝑫𝑶𝑾𝑵𝑳𝑶𝑨𝑫🌀
 ┣━━━━━━━━━━━━━━━━━━━━┓
 ┃➢ ${prefix}tiktod
-┃➢ ${prefix}ytmp3
+┃➢ ${prefix}ytmp3 baixa música 
 ┣━━━━━━━━━━━━━━━━━━━━┛
 ┣━━━━━━━━━━━━━━━━━━━━┛
 ┃ 🌀𝑴𝒆𝒏𝒖 𝑮𝑨𝑩𝑼𝑻𝒁🌀
@@ -108,11 +106,11 @@ const help = (prefix) => {
 ┃➢ ${prefix}clearall
 ┃➢ ${prefix}clone
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃⟪ CRIADO POR BY *BRUXINHO MODS* ⟫
+┃⟪ CRIADO POR BY *GABO TOTOSO* ⟫
 ┣━━━━━━━━━━━━━━━━━━━━┓
 
              ╲    ╱    ● ᏴϴͲ●ᎷᎬΝႮ●
-       ╱▔▔▔▔▔╲       Autor    : ARR157 BOT
+       ╱▔▔▔▔▔╲       Autor    : EDUARDO 
       ┃┈▇┈┈▇┈┃      
 ╭╮┣━━━━━━┫╭╮    
 ┃┃┃┈┈┈┈┈┈┃┃┃    
