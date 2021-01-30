@@ -1,7 +1,7 @@
 const help = (prefix) => {
 	return `🔰---[ *MENU ARR157-BOT* ]---🔰
 ┏━━━━━━━━━━━━━━━━━━━━┓
-┃ *⚠️ NAO SPAM! NAO CALL!!! ⚠️*
+┃ *⚠️ NAO SPAM! NAO PNCLL!!! ⚠️*
 ┃   *caso aocontrario  BLOCK*
 ┣━━━━━━━━━━━━━━━━━━━━┛
 ┃⊱❥ PROPRIETÁRIO : *BRUXINHO*
