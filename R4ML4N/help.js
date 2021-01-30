@@ -2,7 +2,7 @@ const help = (prefix) => {
 	return `🔰---[ *MENU ARR157-BOT* ]---🔰
 ┏━━━━━━━━━━━━━━━━━━━━┓
 ┃ *⚠️ NAO SPAM! NAO CALL!!! ⚠️*
-┃   *caso aocontrario  BLOCK*
+┃   *caso aocontrario  BLOCK*kkkkkkk
 ┣━━━━━━━━━━━━━━━━━━━━┛
 ┃⊱❥ PROPRIETÁRIO : *BRUXINHO*
 ┃⊱❥ ATIVO : *08:00-22:00 WIB*
